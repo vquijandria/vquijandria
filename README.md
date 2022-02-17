@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vquijandria
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... JavaScript and React.JS
-- 💞️ I’m looking to collaborate on ... In frontend projects
+- 💞️ I’m looking to collaborate on ... Full-Stack projects
 - 📫 How to reach me ... vquijandria@hotmail.com
 
 <!---
