@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... JavaScript and C++
 - 💞️ I’m looking to collaborate on ... Web Development projects
-- 📫 How to reach me ... vquijandria@hotmail.com
+- 📫 How to reach me ... vquijandria@gmail.com
 
 <!---
 vquijandria/vquijandria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
