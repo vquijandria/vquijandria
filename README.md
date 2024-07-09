@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vquijandria
-- 👀 I’m interested in ... Mobile Apps Development
+- 👀 I’m interested in ... Apps Development
 - 🌱 I’m currently learning ... Everything I can
-- 💞️ I’m looking to collaborate on ... Mobile Apps Development projects
+- 💞️ I’m looking to collaborate on ... Web or Mobile Apps Development projects
 - 📫 How to reach me ... vquijandria@gmail.com
 
 <!---
